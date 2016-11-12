@@ -13,6 +13,7 @@ gem 'jbuilder', '~> 2.0'
 #New Gems
 gem 'figaro', '~> 1.1', '>= 1.1.1'
 gem 'active_model_serializers', '~> 0.10.2'
+gem 'devise', '~> 4.2'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 
